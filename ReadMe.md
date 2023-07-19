@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently studying B.tech Information Technology 3rd Year.<br>I also currently working on my future ecommerce site : <b>dashingknights.com</b> <br>I have done internship regarding web-development fro 3months.<br>Currently I'm learning App-development /Mobile App-development using some free crash courses.<br>Also working on WEBRTC,MERN-BLOG,REACT-APP and So On....<br>I love to gain/update my knowledge by learning current technologies.<br>Even ,I love to Code while hearing music during my leisure time.<br>
+I'm Currently studying B.tech Information Technology 4th Year.<br>I also currently working on my future ecommerce site : <b>dashingknights.com</b> <br>I have done internships regarding web-development for 3months and much more.<br>Currently I'm learning App-development /Mobile App-development using some free crash courses.<br>Also working on WEBRTC,MERN-BLOG,REACT-APP and So On....<br>I love to gain/update my knowledge by learning current technologies.<br>Even ,I love to Code while hearing music during my leisure time.<br>
 
 
 ## 🌐 Socials:
